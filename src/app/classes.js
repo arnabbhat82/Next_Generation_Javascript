@@ -55,3 +55,7 @@ class Person extends Human {
   person.printMyName();
   person.printMyGender();
 }
+
+// properties are like variables you attach to classes and objects, methods are
+
+// like functions attached to classes and objects
