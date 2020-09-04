@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "nexgenjs": {
@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nexgenjs"
+    }
+  },
+  "defaultProject": "nexgenjs",
+  "cli": {
+    "analytics": "91c57e69-aa51-455a-a86b-8765f9a4eb17"
+  }
 }
